@@ -31,6 +31,9 @@ end
 
 page "/feed.xml", layout: false
 
+# ignore README
+# page "/README", :directory_index => false
+
 ###
 # Compass
 ###
