@@ -1,0 +1,9 @@
+---
+title: Test Post 2
+date: 2015-08-16
+tags: second, post, layout, ellipses
+---
+
+I just want to see what happens to the layout when I make another post...
+
+I really like ellipses...
