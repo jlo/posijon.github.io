@@ -64,8 +64,9 @@ page "/feed.xml", layout: false
 ###
 # Helpers
 ###
+
 activate :deploy do |deploy|
-  deploy.deploy_method = :git
+  deploy.method = :git
   # Optional Settings
   # deploy.remote   = 'custom-remote' # remote name or git url, default: origin
   deploy.branch   = 'master' # default: gh-pages
