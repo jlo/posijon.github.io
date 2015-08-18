@@ -2,41 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Blog Name</title>
   <subtitle>Blog subtitle</subtitle>
-  <id>http://blog.url.com/</id>
-  <link href="http://blog.url.com/"/>
+  <id>http://blog.url.com/blog</id>
+  <link href="http://blog.url.com/blog"/>
   <link href="http://blog.url.com/feed.xml" rel="self"/>
-  <updated>2015-08-15T17:00:00-07:00</updated>
   <author>
     <name>Blog Author</name>
   </author>
-  <entry>
-    <title>Test Post 2</title>
-    <link rel="alternate" href="http://blog.url.com/2015/08/16/test-post-2.html"/>
-    <id>http://blog.url.com/2015/08/16/test-post-2.html</id>
-    <published>2015-08-15T17:00:00-07:00</published>
-    <updated>2015-08-16T15:18:21-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;I just want to see what happens to the layout when I make another post…&lt;/p&gt;
-
-&lt;p&gt;I really like ellipses…&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Initial Commit</title>
-    <link rel="alternate" href="http://blog.url.com/2015/08/16/initial-commit.html"/>
-    <id>http://blog.url.com/2015/08/16/initial-commit.html</id>
-    <published>2015-08-15T17:00:00-07:00</published>
-    <updated>2015-08-16T15:12:13-07:00</updated>
-    <author>
-      <name>Article Author</name>
-    </author>
-    <content type="html">&lt;p&gt;I started a blog today. I used middleman to build a static site and deploy on github pages. It was all free because I can have one free personal github pages site, and the .me domain was free on namecheap. I'm currently attempting to stylize using bourbon, neat, and bitters.&lt;/p&gt;
-
-&lt;p&gt;I wasn't trying to start a blog. It just happened. I don't anticipate any more posts, so if there are any, it'll be a pleasant (indifferent?) surprise for all of us. I was actually trying to start a project site that links to github. In short, I've not accomplished what I set out to do. But I will. You'll see.&lt;/p&gt;
-
-&lt;p&gt;I'll learn all the formatting later…&lt;/p&gt;
-</content>
-  </entry>
 </feed>
